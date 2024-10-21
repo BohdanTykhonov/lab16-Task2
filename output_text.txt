@@ -1,0 +1,3 @@
+Python programming language design philosophy emphasizes code readability use significant indentation Python
+dynamically typed supports multiple programming paradigms including structured particularly procedural functional
+programming often described batteries included language due comprehensive standard library
